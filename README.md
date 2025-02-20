@@ -18,3 +18,10 @@
 Because sometimes the best projects come from moments of creative boredom, and who doesn't love a colorful terminal cat? 😺
 
 *Note: This project was born out of boredom but evolved into something surprisingly entertaining. Try it - it's cooler than it sounds!*
+
+
+![Important](https://img.shields.io/badge/Important-Note-red)  
+Not compatible with all Operating Systems and programs (terminals, shells, system info)
+Work in Progress.
+
+Don't take it as a Neofetch working unit! at least not for now!
