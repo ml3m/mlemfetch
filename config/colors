@@ -1,0 +1,19 @@
+#!/bin/bash
+
+colors=(
+  '\033[31m' # Red
+  '\033[32m' # Green
+  '\033[33m' # Yellow
+  '\033[34m' # Blue
+  '\033[35m' # Purple
+  '\033[36m' # Cyan
+  '\033[91m' # Light Red
+  '\033[92m' # Light Green
+  '\033[93m' # Light Yellow
+  '\033[94m' # Light Blue
+  '\033[95m' # Light Purple
+  '\033[96m' # Light Cyan
+)
+
+NC='\033[0m' # No Color
+WHITE='\033[97m' # White
