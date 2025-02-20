@@ -1,4 +1,4 @@
-<h3 align="center">[mlemfetch_logo.png]</h3>
+<h3 align="center"><img src="mlemfetch_logo.png" alt="logo" height="100px"></h3>
 <p align="center">A colorful terminal cat animation displaying system information, written in bash</p>
 
 <p align="center">
