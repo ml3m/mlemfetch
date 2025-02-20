@@ -1,10 +1,10 @@
-<h3 align="center"><img src="mlemfetch_logo.png" alt="logo" height="100px"></h3>
+<h3 align="center"><img src="images/mlemfetch_logo.png" alt="logo" height="100px"></h3>
 <p align="center">A colorful terminal cat animation displaying system information, written in bash</p>
 
 <p align="center">
 
 <p align="center">
-  <img src="mlemfetch.gif" alt="Terminal Cat Animation Demo" width="100%">
+  <img src="images/mlemfetch.gif" alt="Terminal Cat Animation Demo" width="100%">
 </p>
 
 ## Features
