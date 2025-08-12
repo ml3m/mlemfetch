@@ -13,6 +13,7 @@
 - Clean and organized code structure
 - Smooth animation with cursor management
 - Graceful exit handling
+- Gradient coloring
 
 ## Why?
 Because sometimes the best projects come from moments of creative boredom, and who doesn't love a colorful terminal cat? 😺
